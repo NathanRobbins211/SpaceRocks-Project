@@ -15,3 +15,5 @@ Large enemies split into smaller enemies when destroyed.
 
  - Open project solution in Microsoft Visual Studio 2017 (or equivalent)
  - Run main.cpp
+
+![alt text](https://github.com/NathanRobbins211/SpaceRocks-Project/blob/main/Example2.png "game image")

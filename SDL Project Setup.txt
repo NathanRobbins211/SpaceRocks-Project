@@ -1,0 +1,24 @@
+--- Solution Properties:
+
+VC++ Directories:
+	Include Directories:
+		- Edit
+		- New Line
+		- ...
+		 - C:\vclib\SDL\include
+
+VC++ Directories:
+	Library Directories:
+		- Edit
+		- New Line
+		- ...
+		 - C:\vclib\SDL\lib\x64
+
+Linker:
+	Input:
+		Additional Dependencies:
+			- Edit
+			 - SDL2.lib;SDL2main.lib;SDL2_image.lib;SDL2_mixer.lib;SDL2_ttf.lib;
+
+--- Solution Platforms:
+	x64

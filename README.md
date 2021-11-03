@@ -10,8 +10,8 @@ Large enemies split into smaller enemies when destroyed.
  - Download SDL files (https://www.libsdl.org/)
  - Create file named `vclib` on local disk
  - Add SDL files to `vclib`
- 
-image
+
+ ![alt text](https://github.com/NathanRobbins211/SpaceRocks-Project/blob/main/Example1.png "vclib file")
 
  - Open project solution in Microsoft Visual Studio 2017 (or equivalent)
  - Run main.cpp

@@ -1,0 +1,52 @@
+﻿  bullet.cpp
+c:\users\sirba\desktop\tstcdesktop\advanced comp programming\done\c++\nrobbinscppproject3_1b\space rocks\bullet.cpp(31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\sirba\desktop\tstcdesktop\advanced comp programming\done\c++\nrobbinscppproject3_1b\space rocks\bullet.cpp(32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\sirba\desktop\tstcdesktop\advanced comp programming\done\c++\nrobbinscppproject3_1b\space rocks\bullet.cpp(56): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\sirba\desktop\tstcdesktop\advanced comp programming\done\c++\nrobbinscppproject3_1b\space rocks\bullet.cpp(57): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\sirba\desktop\tstcdesktop\advanced comp programming\done\c++\nrobbinscppproject3_1b\space rocks\bullet.cpp(129): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\sirba\desktop\tstcdesktop\advanced comp programming\done\c++\nrobbinscppproject3_1b\space rocks\bullet.cpp(130): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\sirba\desktop\tstcdesktop\advanced comp programming\done\c++\nrobbinscppproject3_1b\space rocks\bullet.cpp(139): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\sirba\desktop\tstcdesktop\advanced comp programming\done\c++\nrobbinscppproject3_1b\space rocks\bullet.cpp(140): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  largeRock.cpp
+c:\users\sirba\desktop\tstcdesktop\advanced comp programming\done\c++\nrobbinscppproject3_1b\space rocks\largerock.cpp(29): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\sirba\desktop\tstcdesktop\advanced comp programming\done\c++\nrobbinscppproject3_1b\space rocks\largerock.cpp(30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\sirba\desktop\tstcdesktop\advanced comp programming\done\c++\nrobbinscppproject3_1b\space rocks\largerock.cpp(61): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\sirba\desktop\tstcdesktop\advanced comp programming\done\c++\nrobbinscppproject3_1b\space rocks\largerock.cpp(66): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\sirba\desktop\tstcdesktop\advanced comp programming\done\c++\nrobbinscppproject3_1b\space rocks\largerock.cpp(70): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\sirba\desktop\tstcdesktop\advanced comp programming\done\c++\nrobbinscppproject3_1b\space rocks\largerock.cpp(74): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\sirba\desktop\tstcdesktop\advanced comp programming\done\c++\nrobbinscppproject3_1b\space rocks\largerock.cpp(78): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\sirba\desktop\tstcdesktop\advanced comp programming\done\c++\nrobbinscppproject3_1b\space rocks\largerock.cpp(103): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\sirba\desktop\tstcdesktop\advanced comp programming\done\c++\nrobbinscppproject3_1b\space rocks\largerock.cpp(108): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\sirba\desktop\tstcdesktop\advanced comp programming\done\c++\nrobbinscppproject3_1b\space rocks\largerock.cpp(123): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\sirba\desktop\tstcdesktop\advanced comp programming\done\c++\nrobbinscppproject3_1b\space rocks\largerock.cpp(128): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\sirba\desktop\tstcdesktop\advanced comp programming\done\c++\nrobbinscppproject3_1b\space rocks\largerock.cpp(143): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\sirba\desktop\tstcdesktop\advanced comp programming\done\c++\nrobbinscppproject3_1b\space rocks\largerock.cpp(148): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\sirba\desktop\tstcdesktop\advanced comp programming\done\c++\nrobbinscppproject3_1b\space rocks\largerock.cpp(163): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\sirba\desktop\tstcdesktop\advanced comp programming\done\c++\nrobbinscppproject3_1b\space rocks\largerock.cpp(168): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\sirba\desktop\tstcdesktop\advanced comp programming\done\c++\nrobbinscppproject3_1b\space rocks\largerock.cpp(187): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\sirba\desktop\tstcdesktop\advanced comp programming\done\c++\nrobbinscppproject3_1b\space rocks\largerock.cpp(188): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+c:\users\sirba\desktop\tstcdesktop\advanced comp programming\done\c++\nrobbinscppproject3_1b\space rocks\main.cpp(54): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\sirba\desktop\tstcdesktop\advanced comp programming\done\c++\nrobbinscppproject3_1b\space rocks\main.cpp(74): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\sirba\desktop\tstcdesktop\advanced comp programming\done\c++\nrobbinscppproject3_1b\space rocks\main.cpp(125): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\sirba\desktop\tstcdesktop\advanced comp programming\done\c++\nrobbinscppproject3_1b\space rocks\main.cpp(286): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sirba\desktop\tstcdesktop\advanced comp programming\done\c++\nrobbinscppproject3_1b\space rocks\main.cpp(305): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\sirba\desktop\tstcdesktop\advanced comp programming\done\c++\nrobbinscppproject3_1b\space rocks\main.cpp(309): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\sirba\desktop\tstcdesktop\advanced comp programming\done\c++\nrobbinscppproject3_1b\space rocks\main.cpp(313): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\sirba\desktop\tstcdesktop\advanced comp programming\done\c++\nrobbinscppproject3_1b\space rocks\main.cpp(317): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\sirba\desktop\tstcdesktop\advanced comp programming\done\c++\nrobbinscppproject3_1b\space rocks\main.cpp(366): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  smallRock.cpp
+c:\users\sirba\desktop\tstcdesktop\advanced comp programming\done\c++\nrobbinscppproject3_1b\space rocks\smallrock.cpp(29): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\sirba\desktop\tstcdesktop\advanced comp programming\done\c++\nrobbinscppproject3_1b\space rocks\smallrock.cpp(30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\sirba\desktop\tstcdesktop\advanced comp programming\done\c++\nrobbinscppproject3_1b\space rocks\smallrock.cpp(61): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\sirba\desktop\tstcdesktop\advanced comp programming\done\c++\nrobbinscppproject3_1b\space rocks\smallrock.cpp(66): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\sirba\desktop\tstcdesktop\advanced comp programming\done\c++\nrobbinscppproject3_1b\space rocks\smallrock.cpp(70): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\sirba\desktop\tstcdesktop\advanced comp programming\done\c++\nrobbinscppproject3_1b\space rocks\smallrock.cpp(74): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\sirba\desktop\tstcdesktop\advanced comp programming\done\c++\nrobbinscppproject3_1b\space rocks\smallrock.cpp(78): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\sirba\desktop\tstcdesktop\advanced comp programming\done\c++\nrobbinscppproject3_1b\space rocks\smallrock.cpp(95): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\sirba\desktop\tstcdesktop\advanced comp programming\done\c++\nrobbinscppproject3_1b\space rocks\smallrock.cpp(96): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\sirba\desktop\tstcdesktop\advanced comp programming\done\c++\nrobbinscppproject3_1b\space rocks\smallrock.cpp(101): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\sirba\desktop\tstcdesktop\advanced comp programming\done\c++\nrobbinscppproject3_1b\space rocks\smallrock.cpp(138): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\sirba\desktop\tstcdesktop\advanced comp programming\done\c++\nrobbinscppproject3_1b\space rocks\smallrock.cpp(139): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Space Rocks.vcxproj -> C:\Users\sirba\Desktop\TSTCDesktop\Advanced Comp Programming\DONE\C++\NRobbinsCPPProject3_1B\Space Rocks\x64\Debug\Space Rocks.exe
